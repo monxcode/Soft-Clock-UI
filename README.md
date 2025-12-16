@@ -52,9 +52,6 @@ Screenshots or a live preview can be viewed from the portfolio website.
 
 ## 📂 Project Status
 ✅ Completed  
-Planned enhancements:
-- Theme switcher (light/dark pastel)
-- 12/24-hour format toggle
 
 ---
 
