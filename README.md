@@ -60,7 +60,7 @@ Screenshots or a live preview can be viewed from the portfolio website.
 Founder of **MONXCODE**
 
 📧 Email: parmarmohansingh26@gmail.com  
-📍 Udaipur/Kumbhalgarh, Rajasthan, India
+📍 Udaipur, Rajasthan, India
 
 ---
 
